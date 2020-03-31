@@ -1,3 +1,3 @@
 # flutter_food_delivery_ui
 
-Done with the help of a tutorial by Marcun Ng
+Done with the help of a tutorial by Marcus Ng
